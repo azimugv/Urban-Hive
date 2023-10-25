@@ -192,6 +192,7 @@ width: 100%;
 .review-header{
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 .review-header img{
     width: 60px;
